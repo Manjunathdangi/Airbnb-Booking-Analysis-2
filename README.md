@@ -1,4 +1,4 @@
-# Airbnb-Booking-Analysis-Airbnb
+![Screenshot_17-9-2024_17532_public tableau com](https://github.com/user-attachments/assets/24236ac3-36c2-486e-8b2d-94dd3b2a4dda)![Screenshot_17-9-2024_17532_public tableau com](https://github.com/user-attachments/assets/fc9c950e-b1e0-43f4-9f41-e20daf53ff35)# Airbnb-Booking-Analysis-Airbnb
 Airbnb Booking Analysis | Exploratory Data Analysis (EDA)
 Project Overview
 This project focuses on analyzing Airbnb booking data to provide insights into pricing trends, guest preferences, and booking patterns across various locations. By leveraging exploratory data analysis (EDA) and data visualization tools, the goal is to uncover patterns that can help optimize property listings and enhance the guest experience. The analysis also highlights regional demand trends, seasonal booking fluctuations, and pricing strategies.
@@ -39,3 +39,8 @@ In conclusion, the analysis of Airbnb booking data provides valuable insights in
 We found that entire apartments were the most popular type of room booked by guests, followed by private rooms and shared rooms. Additionally, we found that Manhattan and Queens were the most popular neighborhoods, with the highest number of listings per host. We also discovered that there was a positive correlation between the number of reviews and the booking price, suggesting that guests were willing to pay more for higher-quality listings.
 
 Overall, this analysis provides valuable insights into the Airbnb platform and can help the company make data-driven decisions to optimize their business strategy and improve the user experience. By understanding the booking preferences of users, Airbnb can prioritize their efforts and resources to maximize revenue and provide a better experience for their hosts and guests.
+
+Tableau Dasshboard for Airbnb Booking Analysis:
+https://public.tableau.com/app/profile/manjunath.dangi/viz/AirbnbAnalysisDashboard_17130011786390/Dashboard1
+
+
