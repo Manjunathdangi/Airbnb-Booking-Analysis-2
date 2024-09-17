@@ -1,4 +1,4 @@
-![Screenshot_17-9-2024_17532_public tableau com](https://github.com/user-attachments/assets/24236ac3-36c2-486e-8b2d-94dd3b2a4dda)![Screenshot_17-9-2024_17532_public tableau com](https://github.com/user-attachments/assets/fc9c950e-b1e0-43f4-9f41-e20daf53ff35)# Airbnb-Booking-Analysis-Airbnb
+# Airbnb-Booking-Analysis-Airbnb
 Airbnb Booking Analysis | Exploratory Data Analysis (EDA)
 Project Overview
 This project focuses on analyzing Airbnb booking data to provide insights into pricing trends, guest preferences, and booking patterns across various locations. By leveraging exploratory data analysis (EDA) and data visualization tools, the goal is to uncover patterns that can help optimize property listings and enhance the guest experience. The analysis also highlights regional demand trends, seasonal booking fluctuations, and pricing strategies.
@@ -42,5 +42,7 @@ Overall, this analysis provides valuable insights into the Airbnb platform and c
 
 Tableau Dasshboard for Airbnb Booking Analysis:
 https://public.tableau.com/app/profile/manjunath.dangi/viz/AirbnbAnalysisDashboard_17130011786390/Dashboard1
+
+![Screenshot_17-9-2024_17532_public tableau com](https://github.com/user-attachments/assets/aa99ca96-e8c9-43a8-b724-8cb19199ff1b)
 
 
