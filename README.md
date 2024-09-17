@@ -9,17 +9,27 @@ Since 2008, guests and hosts have used Airbnb to expand on travelling possibilit
 Main Features:
 
 Comprehensive data cleaning and preprocessing to ensure accurate analysis.
+
 Visual representation of booking patterns, pricing trends, and seasonal fluctuations using Tableau.
+
 Analysis of guest preferences, such as room type, stay duration, and popular locations.
+
 Price sensitivity analysis to understand the factors that affect room rates and booking volume.
+
 Interactive Tableau dashboard for easy exploration and data-driven insights.
 
 Technologies Used
+
 Python: For data cleaning, transformation, and exploratory analysis.
+
 Pandas & NumPy: For data manipulation and analysis.
+
 Matplotlib & Seaborn: For initial data visualization and trend exploration.
+
 Tableau: For creating interactive dashboards to visualize key insights and trends.
+
 Jupyter Notebook: For documenting and running code in an interactive environment.
+
 Power Query: To handle data preparation and transformation for Tableau dashboards.
 
 Conclusion
